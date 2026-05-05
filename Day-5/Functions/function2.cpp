@@ -2,13 +2,14 @@
 #include<iostream>
 using namespace std;
 int calculateCoffeeVolume(int shots){
-    return shots * 30; // 1 shot = 30 ml
+    return shots * 30; // 1 shot = 30 ml  // parameter
 }
 int main() {
     int shots;      
     cout << "Enter the number of coffee shots: ";
     cin >> shots;   
     int totalVolume = calculateCoffeeVolume(shots);
+    // argument
     cout << "Total coffee volume: " << totalVolume << " ml" << endl;
     return 0;
 }

@@ -1,7 +1,7 @@
 //wap that apply 10% discount using reference variable update the original bill amount
 #include<iostream>
 using namespace std;    
-void applyDiscount(double &billAmount){
+void applyDiscount(double &billAmount){ // calling by reference using &
     billAmount *= 0.9; // applying 10% discount
 }
 int main(){
