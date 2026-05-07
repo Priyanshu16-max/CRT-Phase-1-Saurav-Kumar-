@@ -27,3 +27,5 @@ int main()
     s1.show();
     return 0;
 }
+
+// destructor :- uses tilda sign as ~ same code like constructor change only as with sign .
