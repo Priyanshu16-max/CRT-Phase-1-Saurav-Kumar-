@@ -1,3 +1,6 @@
+// create a college management system in that in base class containig name ,age ,details and to derived class student and their data respectively. then also create a virtual function to get what category by default otherwise 
+
+
 #include <iostream>
 
 using namespace std;
