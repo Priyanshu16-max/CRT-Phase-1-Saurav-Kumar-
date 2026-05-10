@@ -13,7 +13,7 @@ using namespace std;
 int main()
 {
     int arr[5]; //= {1, 2, 3, 4, 5};
-                // Manual input of array elements using cin
+    // Manual input of array elements using cin
     // cin >> arr[0];
     // cin >> arr[1];
     // cin >> arr[2];
